@@ -19,10 +19,6 @@ header .col-7 {
     padding-left: 200px;
 }
 
-header {
-    height: 750px;
-}
-
 header a {
     color: black;
     font-weight: 600;
