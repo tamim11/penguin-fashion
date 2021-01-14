@@ -24,12 +24,8 @@ header a {
     font-weight: 600;
 }
 
-header button .fas {
-    margin-right: 10px;
-}
-
-header button {
-    padding: 20px 50px;
+button .fas {
+    padding-right: 10px;
 }
 
 .bg-color-header {
