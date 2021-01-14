@@ -1,0 +1,67 @@
+.orange-color {
+    color: #fa804c;
+}
+
+.bluish-color {
+    color: #363958;
+}
+
+#image-size {
+    width: 100%;
+}
+
+header h1 {
+    font-size: 60px;
+}
+
+header .col-7 {
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+header {
+    height: 750px;
+}
+
+header a {
+    color: black;
+    font-weight: 600;
+}
+
+header button .fas {
+    margin-right: 10px;
+}
+
+header button {
+    padding: 20px 50px;
+}
+
+.bg-color-header {
+    background-color: #fff9f4;
+}
+
+main .card-footer button {
+    margin-left: 100px;
+}
+
+main .card-footer h3 {
+    margin-left: 30px;
+    padding-top: 15px;
+}
+
+.logos {
+    width: 15%;
+}
+
+.curve {
+    border-radius: 10px;
+}
+
+.xmild img {
+    width: 100%;
+}
+
+.green-button {
+    margin-top: 30px;
+    margin-bottom: 150px;
+}
